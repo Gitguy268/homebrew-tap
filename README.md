@@ -25,11 +25,11 @@ tap "gitguy268/tap"
 brew "pakket"
 ```
 
-Every formula builds from the tagged source on GitHub; there are no prebuilt bottles yet.
+Every formula builds from the tagged source on GitHub; there are no prebuilt bottles yet. Each one was built and tested with `brew install --build-from-source` and `brew test` on macOS 27 (Apple silicon). The Linux entries below are what the formulas allow; Homebrew on Linux has not been tried with them yet.
 
 ## Formulas
 
-| Formula | Command | What it is | Platforms |
+| Formula | Command | What it is | Platforms (tested on macOS) |
 |---|---|---|---|
 | [pakket](https://github.com/Gitguy268/pakket) | `pakket` | Terminal archiver: 7z, zip, rar, dmg, tar, zstd, age and more, with a TUI | macOS, Linux |
 | [needle-player](https://github.com/Gitguy268/needle) | `needle` | Terminal music player: TUI, inline mode, daemon, JSON lines | macOS, Linux |
