@@ -43,6 +43,11 @@ Every formula builds from the tagged source on GitHub; there are no prebuilt bot
 | [retrofind](https://github.com/Gitguy268/retrofind) | `retrofind` | Private 1998-style web search over a local SearXNG | macOS |
 | [container-here](https://github.com/Gitguy268/container) | `container` | My apple/container fork with `container here` and a TUI | macOS, Apple silicon |
 | [glyphium](https://github.com/Gitguy268/glyphium) | `glyphium` | GPU terminal emulator on libghostty-vt (early) | macOS |
+| [lvw-bench](https://github.com/Gitguy268/LvW-bench) | `lvwb` | Local benchmark for tiny System 1 and System 2 AI models (CLI and TUI) | macOS, Linux |
+
+| Cask | What it is | Platforms |
+|---|---|---|
+| [lvw-bench-app](https://github.com/Gitguy268/LvW-bench) | LvW-bench desktop app (`brew install --cask gitguy268/tap/lvw-bench-app`). It is not signed by Apple; the cask clears the quarantine flag | macOS |
 
 `needle-player`, `superfile-plus` and `container-here` have different names from the projects in homebrew-core (`needle`, `superfile`, `container`), and conflict with them, because they install the same commands.
 
