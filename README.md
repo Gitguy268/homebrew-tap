@@ -39,6 +39,7 @@ Every formula builds from the tagged source on GitHub; there are no prebuilt bot
 | [superfile-plus](https://github.com/Gitguy268/superfile) | `spf` | My superfile fork: file manager with extra fixes and features | macOS, Linux |
 | [lvw-harness](https://github.com/Gitguy268/LvW-harness) | `lvw` | Local-first AI agent with a model manager, terminal and web UI | macOS, Linux |
 | [web2app](https://github.com/Gitguy268/web2app) | `web2app` | Web GUI for Pake: turn a website into a desktop app | macOS, Linux |
+| [tabshell](https://github.com/Gitguy268/tabshell) | `tabshell` | A real Linux terminal in a browser tab: Alpine in v86, or Ubuntu through Docker | macOS, Linux |
 | [retrofind](https://github.com/Gitguy268/retrofind) | `retrofind` | Private 1998-style web search over a local SearXNG | macOS |
 | [container-here](https://github.com/Gitguy268/container) | `container` | My apple/container fork with `container here` and a TUI | macOS, Apple silicon |
 | [glyphium](https://github.com/Gitguy268/glyphium) | `glyphium` | GPU terminal emulator on libghostty-vt (early) | macOS |
