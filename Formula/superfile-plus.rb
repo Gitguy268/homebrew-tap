@@ -1,9 +1,9 @@
 class SuperfilePlus < Formula
   desc "Fork of the superfile terminal file manager with extra fixes and features"
   homepage "https://github.com/Gitguy268/superfile"
-  url "https://github.com/Gitguy268/superfile/archive/refs/tags/v1.6.0-gitguy.1.tar.gz"
-  version "1.6.0-gitguy.1"
-  sha256 "97fa51039782775b9187b4cc155e2d41a1d01bf25944e76d0690549a0ef9bfa1"
+  url "https://github.com/Gitguy268/superfile/archive/refs/tags/v1.6.0-gitguy.2.tar.gz"
+  version "1.6.0-gitguy.2"
+  sha256 "00939294cb58b93ae260db141e67ab0ea3eb543ef4b6cabe5eb865609c907570"
   license "MIT"
   head "https://github.com/Gitguy268/superfile.git", branch: "improvements"
 
