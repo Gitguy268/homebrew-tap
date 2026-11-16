@@ -7,7 +7,7 @@ cask "lvw-bench-app" do
   desc "Desktop app for a local benchmark of tiny AI models"
   homepage "https://github.com/Gitguy268/LvW-bench"
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
 
   app "LvW-bench.app"
 
