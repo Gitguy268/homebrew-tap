@@ -44,6 +44,7 @@ Every formula builds from the tagged source on GitHub; there are no prebuilt bot
 | [container-here](https://github.com/Gitguy268/container) | `container` | My apple/container fork with `container here` and a TUI | macOS, Apple silicon |
 | [glyphium](https://github.com/Gitguy268/glyphium) | `glyphium` | GPU terminal emulator on libghostty-vt (early) | macOS |
 | [lvw-bench](https://github.com/Gitguy268/LvW-bench) | `lvwb` | Local benchmark for tiny System 1 and System 2 AI models (CLI and TUI) | macOS, Linux |
+| [spot-cli](https://github.com/Gitguy268/spot-cli) | `spot` | Spot the black lab lives in your terminal and wags when your tests pass | macOS, Linux |
 
 | Cask | What it is | Platforms |
 |---|---|---|
