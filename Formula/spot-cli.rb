@@ -1,8 +1,8 @@
 class SpotCli < Formula
   desc "Black lab who lives in your terminal and wags when your tests pass"
   homepage "https://github.com/Gitguy268/spot-cli"
-  url "https://github.com/Gitguy268/spot-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0cfee27efd48a7d44171f19e328919f7c2922b2eac2a42c89b3438b839b7e10d"
+  url "https://github.com/Gitguy268/spot-cli/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "cf6f816f49dae7995b451d28e439f9f527fac9356feb28618af7254006b4bd9a"
   license "MIT"
   head "https://github.com/Gitguy268/spot-cli.git", branch: "main"
 
