@@ -45,6 +45,7 @@ Every formula builds from the tagged source on GitHub; there are no prebuilt bot
 | [glyphium](https://github.com/Gitguy268/glyphium) | `glyphium` | GPU terminal emulator on libghostty-vt (early) | macOS |
 | [lvw-bench](https://github.com/Gitguy268/LvW-bench) | `lvwb` | Local benchmark for tiny System 1 and System 2 AI models (CLI and TUI) | macOS, Linux |
 | [spot-cli](https://github.com/Gitguy268/spot-cli) | `spot` | Spot the black lab lives in your terminal and wags when your tests pass | macOS, Linux |
+| [gh-merge](https://github.com/Gitguy268/gh-merge) | `gh-merge` | Merge every open pull request GitHub can merge, in one repo or all of them (`gh extension install Gitguy268/gh-merge` for `gh merge`) | macOS, Linux |
 
 | Cask | What it is | Platforms |
 |---|---|---|
