@@ -7,13 +7,13 @@ cask "lvw-bench-app" do
   desc "Desktop app for a local benchmark of tiny AI models"
   homepage "https://github.com/Gitguy268/LvW-bench"
 
-  depends_on macos: ">= :big_sur"
+  depends_on :macos
 
   app "LvW-bench.app"
 
   # The release build is not notarised; clear the download quarantine so it opens.
-  postflight do
-    system_command "/usr/bin/xattr", args: ["-dr", "com.apple.quarantine", "#{appdir}/LvW-bench.app"]
+  postflight_steps do
+    run "/usr/bin/xattr", args: ["-dr", "com.apple.quarantine", "{{appdir}}/LvW-bench.app"]
   end
 
   zap trash: [
